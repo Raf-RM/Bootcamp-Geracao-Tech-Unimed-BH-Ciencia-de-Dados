@@ -7,14 +7,14 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="package_name",
+    name="gerador_senhas",
     version="0.0.1",
-    author="my_name",
-    author_email="my_email",
-    description="My short description",
+    author="Rafael Rodrigues Mateus",
+    author_email="rafael.r.mateus@gmail.com",
+    description="Pacote para gerar senhas aleatórias contendo números, letras e caracteres especiais.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link"
+    url="https://github.com/Raf-RM/Bootcamp-Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/master/Python-para-cientistas-de-dados/Projeto_Criacao_de_Pacotes_em_Python"
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
