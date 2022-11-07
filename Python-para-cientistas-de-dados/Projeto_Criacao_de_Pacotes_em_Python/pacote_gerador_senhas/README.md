@@ -16,8 +16,7 @@ pip install gerador_senha
 ## Usage
 
 ```python
-from gerador_senha import construtor_senha
-from gerador_senha import verifica_caracteres_senha
+from gerador_senhas import construtor_senha
 ```
 
 ## Author

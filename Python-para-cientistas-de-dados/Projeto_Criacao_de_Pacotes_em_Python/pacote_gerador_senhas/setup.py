@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="gerador_senhas",
-    version="0.0.1",
+    version="0.0.2",
     author="Rafael Rodrigues Mateus",
     author_email="rafael.r.mateus@gmail.com",
     description="Pacote para gerar senhas aleatórias contendo números, letras e caracteres especiais.",
