@@ -1,7 +1,7 @@
 # package_name
 
 Description. 
-O pacote ferador_senha é utilizado para:
+O pacote gerador_senha é utilizado para:
 	- Gerar senhas de tamanhos variádos que podem ou não conter letras, números e caracteres especiais, de acordo com especificações prévias.
 	- Verificar se na senha gerada estão presentes os itens letra, números e caracteres especiais, especificados previamente.
 

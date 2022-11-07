@@ -14,7 +14,7 @@ setup(
     description="Pacote para gerar senhas aleatórias contendo números, letras e caracteres especiais.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Raf-RM/Bootcamp-Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/master/Python-para-cientistas-de-dados/Projeto_Criacao_de_Pacotes_em_Python"
+    url="https://github.com/Raf-RM/Bootcamp-Geracao-Tech-Unimed-BH-Ciencia-de-Dados/tree/master/Python-para-cientistas-de-dados/Projeto_Criacao_de_Pacotes_em_Python",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
